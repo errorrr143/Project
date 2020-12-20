@@ -44,7 +44,7 @@ ul li.active a{
 }
 .logo{
 	font-family:Road Test;
-	color: #3498DB;
+	color:#fff;
 	font-size: 22px;
 }
 
@@ -67,9 +67,8 @@ ul li.active a{
 }
 
 .button{
-	color: #33FFF9;
 	position: absolute;
-	top: 50%;
+	top: 10%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
